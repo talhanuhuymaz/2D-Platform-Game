@@ -1,6 +1,7 @@
 # 2D-Platform-Game
-Unity Game Project "Save Our Children"
-![Game Screenshot]![JZhMfC](https://github.com/talhanuhuymaz/2D-Platform-Game/assets/41086768/15f0a2f5-7252-4746-8e09-e35be09b4ba3)
+### Unity Game Project "Save Our Children"
+
+![JZhMfC](https://github.com/talhanuhuymaz/2D-Platform-Game/assets/41086768/15f0a2f5-7252-4746-8e09-e35be09b4ba3)
 
 ![0j5cFY](https://github.com/talhanuhuymaz/2D-Platform-Game/assets/41086768/fdd7ff83-cc06-4941-a7b9-90efe61d35fd)
 
